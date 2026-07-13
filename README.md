@@ -16,7 +16,7 @@
 
 ## 👋 Hey there
 
-I'm Siddhesh — a 2nd year IT student from Mumbai who got into ML and kind of never stopped. I like understanding how things work under the hood, so I tend to build stuff from scratch rather than just importing it.
+I'm Siddhesh — a 3rd year IT student from Mumbai who got into ML and kind of never stopped. I like understanding how things work under the hood, so I tend to build stuff from scratch rather than just importing it.
 
 ```python
 siddhesh = {
