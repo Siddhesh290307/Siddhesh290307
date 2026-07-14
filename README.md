@@ -20,7 +20,7 @@ I'm Siddhesh — a 3rd year IT student from Mumbai who got into ML and kind of n
 
 ```python
 siddhesh = {
-    "currently":  "2nd year IT @ DJ Sanghvi, Mumbai",
+    "currently":  "3rd year IT @ DJ Sanghvi, Mumbai",
     "into":       ["deep learning", "NLP", "building full-stack AI apps"],
     "learning":   "transformers, attention mechanisms, sequence modelling",
     "vibe":       "understand it deeply, then build it",
